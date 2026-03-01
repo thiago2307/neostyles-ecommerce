@@ -112,7 +112,7 @@ export const products = [
     {
     id: 11,
     name: "Remera Vashville BICOLOR Blanco-Negro",
-    price: 18000,
+    price: 15000,
     category: "remeras", // 👈 EXACTO
     stock: 5,
     talle: "M",
@@ -123,7 +123,7 @@ export const products = [
     {
     id: 12,
     name: "Remera BICOLOR Blanco-Negro",
-    price: 18000,
+    price: 15000,
     category: "remeras", // 👈 EXACTO
     stock: 5,
     talle: "M",
@@ -134,7 +134,7 @@ export const products = [
     {
     id: 13,
     name: "Remera BICOLOR Negro-Blanco",
-    price: 18000,
+    price: 15000,
     category: "remeras", // 👈 EXACTO
     stock: 5,
     talle: "M",
@@ -145,7 +145,7 @@ export const products = [
     {
     id: 14,
     name: "Remera BICOLOR Negro-Gris",
-    price: 18000,
+    price: 15000,
     category: "remeras", // 👈 EXACTO
     stock: 5,
     talle: "M",
@@ -156,7 +156,7 @@ export const products = [
     {
     id: 15,
     name: "Remera BICOLOR Gris-Negro",
-    price: 18000,
+    price: 15000,
     category: "remeras", // 👈 EXACTO
     stock: 5,
     talle: "M",
